@@ -1,0 +1,28 @@
+body{
+  background-color: #151515;
+  color: #fff;
+}
+
+h1{
+ font-size: 450%; 
+}
+
+#locData{
+  font-size: 150%;
+}
+
+#temp{
+  font-size: 400%;
+}
+
+#unit{
+  font-size: 200%;
+}
+
+#main{
+  font-size: 20px;
+}
+
+i{
+  font-size: 800%;
+}
